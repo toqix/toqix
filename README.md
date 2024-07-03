@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi I'm Veit 👋
+
+I'm a 18 year old Computer Science student at [ETH Zürich](https:://ethz.ch).
+
+🔭 I mostly work on: 
+
+- Embedded Projects using ESP32, STM32, Arduino, etc.
+- Swift & SwiftUI Applications
+
+
+📬 You can find / contact me on
+
+- Discord: ``toqix``
 
 <!--
 **toqix/toqix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
