@@ -1,12 +1,17 @@
 ## Hi I'm Veit 👋
 
-I'm a 18 year old Computer Science student at [ETH Zürich](https:://ethz.ch).
+I'm a 18 year old Computer Science student at [ETH Zürich](https://ethz.ch).
 
 🔭 I mostly work on: 
 
 - Embedded Projects using ESP32, STM32, Arduino, etc.
 - Swift & SwiftUI Applications
 
+⚡ Take a look at [__IgnyteX Labs__](https://github.com/IgnyteX-Labs).
+
+- where I work on some fun projects,
+- some of my handy Arduino libraries are hosted,
+- and many other things, go take a look.
 
 📬 You can find / contact me on
 
